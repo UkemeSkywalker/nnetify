@@ -1,0 +1,9 @@
+.Header{
+    
+    padding: 15px 0;
+    /* justify-content: space-between; */
+}
+
+.header__left>img{
+    max-height: 40px;
+}
